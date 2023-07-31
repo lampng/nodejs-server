@@ -10,5 +10,4 @@ CRUD người dùng, sản phẩm
 Bán quần áo online: Show hình ảnh sản phẩm từ database MongoDB, dùng Cloudinary để lưu trữ hình ảnh
 
 Link API:
-pk02586.vercel.app/api/userAPi
-pk02586.vercel.app/api/productAPi
+pk02586.vercel.app/api/userAPi - pk02586.vercel.app/api/productAPi
